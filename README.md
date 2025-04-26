@@ -9,7 +9,7 @@ A beautifully designed coffee shop app using Flutter.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/images/coffe_project.png)
 
 ### Menu Page
 ![Menu](assets/screenshots/menu.png)
